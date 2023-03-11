@@ -1,7 +1,7 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
-#if !defined (MIRYOKU_LAYOUTMAPPING_BASE)
+
 
 #define XXX &none
 
@@ -29,7 +29,3 @@ XXX  K20  K21  K22  K23  K24       K25  K26  K27  K28  K29  XXX \
 #define MIRYOKU_KLUDGE_THUMBCOMBOS_LEFT 37 38
 #define MIRYOKU_KLUDGE_THUMBCOMBOS_RIGHT 39 40
 
-
-#endif
-
-#define MIRYOKU_MAPPING MIRYOKU_LAYOUTMAPPING_BASE
